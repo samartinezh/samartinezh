@@ -1,4 +1,4 @@
-![Banner](https://github.com/samartinezh/samartinezh/assets/147454858/0b0d1447-c280-4d34-ae3f-9e2cb897094c)
+![Banner](https://github.com/samartinezh/samartinezh/assets/147454858/3e876d9b-5896-4e3b-a36a-ed47f5eeb56d)
 
 # 💫 About Me:
 Me gusta la programación, ya que me ayuda a desarrollar ideas tecnológicas que den solución a un problema en mi entorno. Programar es un arte.
